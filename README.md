@@ -24,10 +24,6 @@ Model performance was consistent in ranking across both genders, suggesting the 
 
 pandas· · numpy· matplotlib· seaborn· statsmodels· xgboost·prophetscikit-learn
 
-## How to Run
-bash
-pip install pandas numpy matplotlib seaborn statsmodels xgboost prophet scikit-learn
-jupyter notebook births_timeseries_analysis.ipynb
 ## About Me
 
 Hi, I'm Monica,  a data scientist based in Toronto . I'm passionate about digging into messy, real-world datasets and figuring out what story they're actually telling. Time series and forecasting problems are a particular favorite of mine, there's something satisfying about testing multiple approaches against each other and seeing which one actually earns its keep on the data, rather than assuming a fancier model automatically wins.
