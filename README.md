@@ -30,6 +30,4 @@ pip install pandas numpy matplotlib seaborn statsmodels xgboost prophet scikit-l
 jupyter notebook births_timeseries_analysis.ipynb
 ## About Me
 
-Hi, I'm Monica,  a data scientist based in Toronto . I'm passionate about digging into messy, real-world datasets and figuring out what story they're actually telling (and what they're not). Time series and forecasting problems are a particular favorite of mine — there's something satisfying about testing multiple approaches against each other and seeing which one actually earns its keep on the data, rather than assuming a fancier model automatically wins.
-
-Feel free to connect or reach out if you'd like to chat data science!
+Hi, I'm Monica,  a data scientist based in Toronto . I'm passionate about digging into messy, real-world datasets and figuring out what story they're actually telling. Time series and forecasting problems are a particular favorite of mine, there's something satisfying about testing multiple approaches against each other and seeing which one actually earns its keep on the data, rather than assuming a fancier model automatically wins.
